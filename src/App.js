@@ -131,7 +131,7 @@ const App = () => {
           </div>
         </CardContent>
         <br />
-      <h4> Developed by <a href="https://github.com/proghead00"> Susnata Goswami </a></h4>
+      <h4> Developed by <a href="https://www.linkedin.com/in/ashish-choudhary321/"> Ashish Choudhary </a></h4>
       </Card>
 
       
